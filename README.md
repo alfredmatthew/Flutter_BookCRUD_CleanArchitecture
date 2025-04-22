@@ -1,7 +1,5 @@
 # Flutter x Spring Boot Book Management App
 
-## Explanation
-
 This project is a Flutter application designed to interact with a Spring Boot backend API for managing a collection of books. It demonstrates basic CRUD (Create, Read, Delete) operations for book data. The app fetches a list of books, allows users to add new books via a dialog, and enables deleting existing books directly from the list.
 
 ## Features
